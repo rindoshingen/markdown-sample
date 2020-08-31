@@ -1,0 +1,23 @@
+{
+  "name": "css-course-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss src/styles.css -o public/styles.css",
+    "production": "cross-env NODE_ENV=production postcss public/styles.css -o public/styles.min.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alpinejs": "^2.5.0",
+    "autoprefixer": "^9.8.5",
+    "postcss-cli": "^7.1.1",
+    "tabler-icons": "^1.10.0",
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}

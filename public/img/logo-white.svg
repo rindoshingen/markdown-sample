@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="790" height="800" viewBox="0 0 790 800">
+  <defs>
+    <clipPath id="clip-Filled_Logo_White">
+      <rect width="790" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Filled_Logo_White" data-name="Filled Logo White" clip-path="url(#clip-Filled_Logo_White)">
+    <path id="Filled_Logo" data-name="Filled Logo" d="M850.63,1048.131l291.38-791.616,99.843,209.875-52.978,143.652-32.6-69.279L1013.639,934.024h448.277L1345.772,687.472,1288.718,817.88,1222.5,674.227,1325.4,391l309.719,657.133Z" transform="translate(-848.447 -253.515)" fill="#fff" stroke="#fff" stroke-width="3"/>
+  </g>
+</svg>
