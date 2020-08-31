@@ -28,9 +28,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](https://shingen.ca)
+[Shingen](https://shingen.ca)
 
-[Traversy Media](https://shingen.ca "Mike Shingen Price")
+[Shingen](https://shingen.ca "Mike Shingen Pricecreate html website with markdown files")
 
 <!-- UL -->
 * Item 1
